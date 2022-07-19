@@ -15,7 +15,7 @@ function splidegallery() {
       perPage: 3,
     },
   	desktop: {
-      perPage: 4,
+      perPage: 5,
     },
   }
   for ( let i = 0, splideLength = splides.length; i < splideLength; i++ ) {
