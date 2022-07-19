@@ -22,7 +22,7 @@ function splidegallery() {
     let splide = new Splide( splides[ i ], {
       // Desktop on down
       perPage: breakpointSettings.desktop.perPage,
-//		autoplay: numberOfSlides > breakpointSettings.desktop.perPage,
+ //		autoplay: numberOfSlides > breakpointSettings.desktop.perPage,
 //		interval : 1000, // autoplay interval duration in ms
       perMove: 1,
       focus: 0, // 0 = left and 'center' = center
